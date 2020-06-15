@@ -1,0 +1,158 @@
+.navbar{
+    background-color: #d32f2f !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.fa-shopping-cart{  
+    font-size: 32px !important;
+}
+.fa-user-circle-o{
+    font-size: 32px !important;
+}
+
+.fa-truck{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #d32f2f;
+}
+h3{
+    color: #d32f2f;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #d32f2f;
+}
+@media screen and (max-width: 600px) {
+    .card1,.card2,.card3{
+        
+        width: 100%;
+    }
+  }
+  
+  .newArivals{
+      margin-top: 30px;
+      margin-bottom: 40px !important;
+  }
+  
+  .btn-primary{
+      width: 100%;
+      background-color:#d32f2f ;
+  }
+  .card-text{
+      font-weight: bold;
+  }
+.heading{
+    color: #d32f2f;
+    text-align: center;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px black;
+    font-weight: bold;
+    margin: 20px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #d32f2f;
+    text-align: center;
+    align-items: center;
+}
+h4{
+    color: white !important;
+}
+
+
+
+
+.card-title-4{
+    line-height: 1.5em;
+    height: 3em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+.card-text{
+    color: #d32f2f;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+    
+}
+.card{
+   
+    margin-bottom: 30px;
+
+}
+.header{
+    background-color: #d32f2f;
+    width: 100%;
+    height: 40vw;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+.fa-phone{
+    color: #fff;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    justify-content: center;
+}
+.con,.email{
+    text-align: center;
+}
+.fa-envelope,.fa-facebook-official,.fa-twitter{
+    font-size: 30px !important;
+    color: #fff;
+}
+.fb{
+    text-align: center;
+}
+.twit{
+    text-align: center;
+    margin-top: 20px;
+}
+.reviwe{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    position: center;
+}
+.form-g{
+    width: 50% !important;
+}
+@media screen and (max-width: 600px) {
+    .card-img-top{
+        
+        width: 100%;
+        height: 40vw;
+    }
